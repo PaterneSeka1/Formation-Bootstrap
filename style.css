@@ -1,0 +1,149 @@
+body{
+    overflow-x: hidden;
+}
+.header{
+    width: 100%;
+    height: 60px;
+    position: static;
+}
+.partie_logo{
+    margin-top: 1%;
+    word-spacing: 20px;
+    font-size: large;
+}
+.partie_bouton{
+    margin-top: 1%;
+}
+.partie_bouton a{
+    background-color: #51b0ff;
+    border-radius: 20px;
+    box-shadow: 1px 1px rgb(185, 184, 184);
+    color: white;
+    border-color: #51b0ff;
+}
+.partie_bouton a:hover{
+    color: white;
+}
+.autre{
+    width: 100%;
+    margin-top: 60px;
+}
+.text1{
+    margin-top: 50px;
+    text-align: center;
+}
+.img1{
+    width: 50%;
+}
+.img1 img{
+    width: 100%;
+}
+.text1 span{
+    font-size: 50px;
+    color: grey;
+}
+.text1 a{
+    background-color: #51b0ff;
+    border-radius: 20px;
+    box-shadow: 1px 1px rgb(185, 184, 184);
+    color: white;
+    border-color: #51b0ff;
+}
+.text1 a:hover{
+    color: white;
+    background-color: #51b0ff;
+    border: none;
+}
+.services{
+    text-align: center;
+    font-size: 23px;
+    font-weight: 900;
+    color: black;
+}
+.resp{
+    width: 99%;
+    border: 1px solid rgb(224, 221, 221);
+    border-radius: 3px;
+}
+.img2 img{
+    width: 100%;
+}
+.images{
+    margin-top: 20px;
+}
+fieldset{
+    width: 90%;
+    text-align: center;
+}
+.premier{
+    margin-top: 43px;
+}
+.troisieme{
+    margin-top: 40px;
+}
+.res{
+    margin-top: 60px;
+}
+.quatrieme{
+    margin-top: 17px;
+}
+.img3{
+    width: 100%;
+}
+.espace{
+    margin-top: 75px;
+}
+.propos{
+    margin-top: 40px;
+}
+.pro{
+    text-align: center;
+    font-size: 23px;
+    font-weight: 900;
+    color: black;
+}
+.sur{
+    margin-top: 15px;
+    width: 90%;
+}
+.sur h4{
+    font-weight: 900;
+    color: black;
+}
+.dynamique{
+    text-align: center;
+    font-size: 23px;
+    font-weight: 900;
+    color: black;
+}
+.img4{
+    text-align: center;
+    color: grey;
+}
+.img4 img{
+    width: 40%;
+}
+.img4 .span1{
+    font-size: larger;
+    color: grey;
+}
+.img4 .span2{
+    font-size: 15px;
+    color: grey;
+}
+.contacter{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    font-size: 23px;
+    font-weight: 900;
+    color: black;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 30px;
+}
